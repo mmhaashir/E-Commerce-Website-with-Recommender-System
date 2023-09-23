@@ -81,7 +81,7 @@ Contributions to this project are welcome. If you have suggestions or improvemen
 
 This e-commerce website with a recommender system represents a successful integration of PHP, MySQL, and sound software engineering practices. Whether you are a customer exploring products or an administrator managing the online store, this project provides a reliable and efficient solution for e-commerce needs. Happy Learning!
 
-
+**Note:** The database schema file named 'divisma' which was used for testing is also uploaded herewith the project. You can find it [here.](https://github.com/mmhaashir/E-Commerce-Website-with-Recommender-System/blob/main/divisma.sql)
 
 
 
