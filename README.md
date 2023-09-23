@@ -40,7 +40,7 @@ Before using the project, ensure you have the following:
   - PHP PDO extension for database connectivity.
   - A web browser for client-side access.
 
-## Software Requirements, Architecture, and Design <a name="req"></a>
+## Software Requirements, Architecture, and Design <a name="doc"></a>
 
 The project underwent meticulous engineering, including the following design components. You can find the all the requirements, architecture, and design in the project document which is uploaded herewith this project, or you can access it [here.](https://github.com/mmhaashir/E-Commerce-Website-with-Recommender-System/blob/main/Project_Document.pdf)
 
