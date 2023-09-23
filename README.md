@@ -2,7 +2,7 @@
 
 ## Introduction <a name="intro"></a>
 
-This repository contains Python code that solves the Lunar Lander problem using the SARSA algorithm in the OpenAI Gym environment. The Lunar Lander problem is a classic reinforcement learning task where an agent must learn to safely land a spacecraft on the moon's surface.
+This project is a comprehensive e-commerce website with a built-in recommender system. It was meticulously designed and implemented to provide a seamless shopping experience for users. The recommender system is powered by MySQL, simplifying the complexity associated with traditional recommender systems. This README provides an overview of the project's key features, architecture, and usage.
 
 
 ![dav_image](https://media.designrush.com/articles/1628/conversions/_1523977145_341_ecommerce-details.jpg)
